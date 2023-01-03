@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS and Economics Major, Full Stack Developer.
 ---------------------------------------------
 
-I am CS and Economics Major (sophomore) based in Southern California. I am experienced with Full Stack Web Development and am always eager to learn more. Highly appreciate any feedback.
+I am CS and Economics Major (sophomore) based in Southern California. I am experienced with Full Stack Web Development and am always eager to learning more. Highly appreciate any feedback.
 
 *   🌍  I'm based in Orange County, California.
 *   ✉️  You can contact me at [mahiranand11@gmail.com](mailto:mahiranand11@gmail.com)
