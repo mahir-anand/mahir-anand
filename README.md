@@ -4,14 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS and Economics Major, Full Stack Developer.
 ---------------------------------------------
 
-I am CS and Economics Major (sophomore) based in Southern California. I am experienced with Full Stack Web Development and am always eager to learning more. Highly appreciate any feedback.
+I am CS and Economics Major (sophomore) based in Southern California. I am experienced with Full Stack Web Development and am always eager to learn more. Highly appreciate any feedback.
 
-*   🌍  I'm based in Orange County, California.
-*   ✉️  You can contact me at [mahiranand11@gmail.com](mailto:mahiranand11@gmail.com)
-*   🧠  I'm learning to contribute to Open Source Projects.
-*   🤝  I'm open to collaborating on Cool Stuff.
-*   ⚡ <a href="https://www.github.com/mahir118" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/mahir118?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in Orange County, California.
+* ✉️  You can contact me at [mahiranand11@gmail.com](mailto:mahiranand11@gmail.com)
+* 🧠  I'm learning to contribute to Open Source Projects.
+* 🤝  I'm open to collaborating on Cool Stuff.
+
+<a href="https://www.github.com/mahir118" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mahir118?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -25,18 +30,24 @@ I am CS and Economics Major (sophomore) based in Southern California. I am exper
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/mahir118" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/mahir-anand" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/mahiranand11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/mahir118"><img src="https://github-readme-stats.vercel.app/api?username=mahir118&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mahir118's GitHub stats" /></a><a
-                      href="http://www.github.com/mahir118"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=mahir118&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/mahir118"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahir118&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/mahir118" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahir118&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/mahir118" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahir-anand" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mahiranand11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mahir118"><img src="https://github-readme-stats.vercel.app/api?username=mahir118&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mahir118's GitHub stats" /></a>
+
+<a href="http://www.github.com/mahir118"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahir118&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/mahir118"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahir118&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/mahir118" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahir118&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
