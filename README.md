@@ -10,7 +10,7 @@ I am CS and Economics Major (sophomore) based in Southern California. I am exper
 *   ✉️  You can contact me at [mahiranand11@gmail.com](mailto:mahiranand11@gmail.com)
 *   🧠  I'm learning to contribute to Open Source Projects.
 *   🤝  I'm open to collaborating on Cool Stuff.
-*   ⚡  01001110 01101111 01110000 01100101<a href="https://www.github.com/mahir118" target="_blank" rel="noreferrer"><img
+*   ⚡ <a href="https://www.github.com/mahir118" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/mahir118?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
