@@ -8,7 +8,7 @@ I am CS and Economics Major (sophomore) based in Southern California. I am exper
 
 * 🌍  I'm based in Orange County, California.
 * ✉️  You can contact me at [mahiranand11@gmail.com](mailto:mahiranand11@gmail.com)
-* 🧠  I'm learning to contribute to Open Source Projects.
+* 🧠  I'm currently working on enhancing my Web Development Skills.
 * 🤝  I'm open to collaborating on Cool Stuff.
 
 <a href="https://www.github.com/mahir118" target="_blank" rel="noreferrer"><img
