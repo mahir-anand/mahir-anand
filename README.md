@@ -11,12 +11,7 @@ I am CS and Economics Major (sophomore) based in Southern California. I am exper
 * 🧠  I'm learning Full Stack Web Development using the MERN stack and constantly practicing my Data Structures and Algorithm Skills.
 * 🤝  I'm open to collaborating on Cool Stuff.
 
-<a href="https://www.twitter.com/mahiranand11" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mahiranand11?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
-
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -35,8 +30,7 @@ src="https://img.shields.io/twitter/follow/mahiranand11?logo=twitter&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mahir118" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahir-anand" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-### Badges
+
 
 <b>My GitHub Stats</b>
 
