@@ -8,7 +8,7 @@ I am CS and Economics Major (sophomore) based in Southern California. I am exper
 
 * 🌍  I'm based in Orange County, California.
 * ✉️  You can contact me at [mahiranand11@gmail.com](mailto:mahiranand11@gmail.com)
-* 🧠  I'm learning Full Stack Web Development using the MERN stack.
+* 🧠  I'm learning Full Stack Web Development using the MERN stack and constantly practicing my Data Structures and Algorithm Skills.
 * 🤝  I'm open to collaborating on Cool Stuff.
 
 <a href="https://www.twitter.com/mahiranand11" target="_blank" rel="noreferrer"><img
