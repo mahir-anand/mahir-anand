@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahir Anand
 ===================================================================================================================================
 
-CS and Economics Major, Full Stack Developer.
+Computer Science and Economics, Full Stack Developer.
 ---------------------------------------------
 
 I am an undergrad student (senior) based in Southern California with a strong interest in Computer Science. I am experienced with Full Stack Web Development and am always eager to learn more. Highly appreciate any feedback.
